@@ -28,8 +28,6 @@ Welcome to my GitHub profile! Here are some of my GitHub stats and activities:
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/syaddadSmiley/some-repo/pull/1) in [some-repo](https://github.com/syaddadSmiley/some-repo)
-2. 🗣 Commented on [#2](https://github.com/syaddadSmiley/some-repo/issues/2) in [some-repo](https://github.com/syaddadSmiley/some-repo)
 <!--END_SECTION:activity-->
 
 ## Connect with me:
