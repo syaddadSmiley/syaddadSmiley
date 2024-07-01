@@ -32,6 +32,5 @@ Welcome to my GitHub profile! Here are some of my GitHub stats and activities:
 
 ## Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/syaddad-auliarahman-600513218/)
 
