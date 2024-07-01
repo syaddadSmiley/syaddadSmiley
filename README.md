@@ -6,7 +6,8 @@ Welcome to my GitHub profile! Here are some of my GitHub stats and activities:
 
 ![syaddadSmiley's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaddadSmiley&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaddadSmiley&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaddadSmiley&layout=compact&theme=radical&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Streak Stats
 
@@ -24,7 +25,6 @@ Welcome to my GitHub profile! Here are some of my GitHub stats and activities:
 
 [![syaddadSmiley's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syaddadSmiley&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -33,4 +33,3 @@ Welcome to my GitHub profile! Here are some of my GitHub stats and activities:
 ## Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/syaddad-auliarahman-600513218/)
-
