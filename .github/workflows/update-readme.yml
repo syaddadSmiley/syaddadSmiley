@@ -21,3 +21,4 @@ jobs:
         uses: jamesgeorge007/github-activity-readme@v0.4.4
         with:
           GH_USERNAME: syaddadSmiley
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
