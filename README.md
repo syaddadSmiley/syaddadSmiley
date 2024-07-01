@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here are some of my GitHub stats and activities:
 
 ![syaddadSmiley's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaddadSmiley&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaddadSmiley&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaddadSmiley&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Streak Stats
 
