@@ -19,6 +19,7 @@ jobs:
 
       - name: Update README with Recent Activity
         uses: jamesgeorge007/github-activity-readme@v0.4.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: syaddadSmiley
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
